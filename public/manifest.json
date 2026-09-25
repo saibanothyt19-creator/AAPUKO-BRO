@@ -1,0 +1,21 @@
+{
+  "short_name": "Nayana OS",
+  "name": "NAYANA AI PLACEMENT OS",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0D0B10",
+  "theme_color": "#663399",
+  "display": "standalone",
+  "orientation": "portrait"
+}

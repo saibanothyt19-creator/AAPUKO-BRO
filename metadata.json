@@ -1,0 +1,6 @@
+{
+  "name": "NAYANA AI PLACEMENT OS",
+  "description": "Personal AI-powered placement operating system for B.Tech CSIT students at KL University, tracking placement readiness, skills, DSA, tests, target companies, projects, resume, and Gemini AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
